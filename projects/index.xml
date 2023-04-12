@@ -11,8 +11,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/0rifthunt/</guid>
-      <description>A fast paced asymmetric top down rogue souls-like game with retro pixel graphics based off Celtic Mythology.
-Combat and Scene Change Dodging and Enemy Patroling Shop and Dialogue System Main Resting Area Tutorial Area White Boxing Main Area White Boxing </description>
+      <description>Lead Designer and Producer
+A fast paced isometric top down rogue souls-like game with retro pixel graphics set in a world with lore based on Celtic Mythology.
+Designed flow of combat and reward system Designed player movement, stamina consumption and patrol system Created dialogue system and UI Designed main hub area along with NPC&amp;rsquo;s Created whiteboxing, game feel and story for beginning area Paper prototyped, whiteboxed and tested main story area </description>
     </item>
     
     <item>
@@ -22,8 +23,9 @@ Combat and Scene Change Dodging and Enemy Patroling Shop and Dialogue System Mai
       
       <guid>/projects/glutendr/</guid>
       <description>Glutender
+Lead Game Designer
 An educational game. This was designed to teach in a fun and interactive way what people with Gluten Intolerance can and cannot digest.
-Quick Tutorial Screen Card at top of deck Swipe Right for yes Swipe Left for no </description>
+Created a quick tutorial that taught the player the basic controls, how to swipe and showed what foods can/cannot be ingested Designed and implemented UI Swipe Right for foods that can be ingested Swipe Left for foods that cannot be ingested </description>
     </item>
     
     <item>
@@ -32,8 +34,9 @@ Quick Tutorial Screen Card at top of deck Swipe Right for yes Swipe Left for no 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/magequest/</guid>
-      <description>Another rogue-like RPG this time in 2D where you control an apprentice mage who must learn every spell in the cave before going back into the world to save it from certain doom.
-Mouse Targeting System Enemy Patroling and Follow Object Interaction System Dialogue System </description>
+      <description>Game Designer and Programmer
+A rogue-like RPG set in 2D where you control an apprentice mage who must learn every spell in the cave before going back into the world to save it from certain doom.
+Designed a point and click combat system Collaborated in designing enemy spawning and patrolling Createdand programmed an system where the player could interact with certain objects by proximity Designed and programmed an easy to use dialogue system that used engine interface instead of in the IDE </description>
     </item>
     
   </channel>
